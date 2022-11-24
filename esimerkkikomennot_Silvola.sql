@@ -1,4 +1,3 @@
--- Izabel Silvola, ryhmä INTIM21A6
 -- Esimerkkejä komennoista. HUOM Kaikkien esimerkkien edessä pitää olla:
 USE projekti_autokauppa;
 
